@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/surajchidarala/13968c41-7bc7-4a67-a23c-e101c231a450/b2752f26-ddee-41fd-9b0b-4faba976f2c0/_apis/work/boardbadge/5c4e5515-bbb1-4899-bfaa-9f7757d4bbd1)](https://dev.azure.com/surajchidarala/13968c41-7bc7-4a67-a23c-e101c231a450/_boards/board/t/b2752f26-ddee-41fd-9b0b-4faba976f2c0/Microsoft.RequirementCategory)
 # Fitness
